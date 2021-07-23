@@ -1,5 +1,5 @@
 const overview = document.querySelector(".overview"); //profile info
-const username = "tay222";
+const username = "tiffanyyee";
 const repoList = document.querySelector(".repo-list");
 const allRepos = document.querySelector(".repos");
 const individualRepoData = document.querySelector(".repo-data");
